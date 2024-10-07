@@ -1,0 +1,3 @@
+course,Java, Python, Data Science, Power BI
+no. students, 10, 25, 13, 11
+course fee,10000, 12000, 20000, 15000

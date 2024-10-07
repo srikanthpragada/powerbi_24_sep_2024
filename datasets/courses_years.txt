@@ -1,0 +1,4 @@
+course,Java, Python, Data Science, Power BI
+2022, 100, 150, 45, 54
+2023, 130, 240, 120, 80
+2024, 30, 80, 35, 38
